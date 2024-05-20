@@ -23,7 +23,7 @@ Because people make crazy errors all over the world, it's recommended to localiz
 
 ```json
 {
-    "name": __MSG_pluginName_",
+    "name": "__MSG_pluginName_",
     "description": "__MSG_pluginDesc_",
     "version": "1.0.0",
     "manifest_version": 2,
